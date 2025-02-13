@@ -1,0 +1,1 @@
+This is a machine learning project that is also done with python. To run the code, you can access the google colab or you can just view the outcome by clicking on the .ipynb file. This project currently has a 65% accuracy. It is also done using sklearn and pandas. The model used is the random forest model. 
